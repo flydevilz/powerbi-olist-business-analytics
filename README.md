@@ -112,7 +112,7 @@ The schema integrates:
 ## 🌐 Live Dashboard
 
 View the interactive dashboard here:
-👉 https://app.powerbi.com/view?r=XXXXXXXX
+👉 [Dashboard](https://app.powerbi.com/groups/me/reports/cfb34830-cfb2-4c89-ac92-af7aec2a1e1d?ctid=537c2be1-fcd4-45a9-83b3-6653eacc5070&pbi_source=linkShare)
 
 ## Executive Dashboard
 
