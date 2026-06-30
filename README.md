@@ -109,6 +109,11 @@ The schema integrates:
 
 # Dashboard Pages
 
+## 🌐 Live Dashboard
+
+View the interactive dashboard here:
+👉 https://app.powerbi.com/view?r=XXXXXXXX
+
 ## Executive Dashboard
 
 **Focus**
